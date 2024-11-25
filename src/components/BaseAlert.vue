@@ -1,9 +1,9 @@
 <template>
     <div :class="baseClass">
         <slot/>
-        <button>
+        <spam style="margin-right: 5px;">
             x
-        </button>
+        </spam>
     </div>
 </template>
 
